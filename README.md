@@ -14,7 +14,7 @@ wallpaper without forking the cash over for apple to have your app in the store.
 
 To use it simply download the shortcut to your IOS device from below:
 
-[Download Link](https://www.icloud.com/shortcuts/9614d5b6d50b47b1ae49a21c4675cabe)
+[Download Link](https://www.icloud.com/shortcuts/cf59e235d2a745e68daad955e2742605)
 
 Once downloaded it should prompt you for some set up steps such as entering your Walltaker link, selecting
 whether to set the Lock Screen, Home Screen, or both, and choosing the wallpaper preset. **NOTE:** You may need
